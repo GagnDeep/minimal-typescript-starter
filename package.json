@@ -1,0 +1,19 @@
+{
+  "name": "@app/get-video-assets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest run",
+    "test-watch": "vitest",
+    "exec": "tsx src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tsx": "^3.8.0",
+    "typescript": "^4.7.4",
+    "vitest": "^0.18.1"
+  }
+}
